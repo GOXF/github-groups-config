@@ -1,13 +1,17 @@
 {
   "format": "github-repository-groups",
   "version": 2,
-  "exportedAt": "2026-11-27T11:13:29.223Z",
+  "exportedAt": "2026-11-27T11:13:39.740Z",
   "owners": {
     "goxf": {
       "groups": [
         {
           "id": "181skujlpibm",
           "name": "微信多开"
+        },
+        {
+          "id": "6wq8631j6oo5",
+          "name": "Hark"
         }
       ],
       "assign": {
