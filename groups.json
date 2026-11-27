@@ -1,0 +1,16 @@
+{
+  "format": "github-repository-groups",
+  "version": 2,
+  "exportedAt": "2026-11-27T11:11:57.825Z",
+  "owners": {
+    "goxf": {
+      "groups": [
+        {
+          "id": "181skujlpibm",
+          "name": "微信多开"
+        }
+      ],
+      "assign": {}
+    }
+  }
+}
