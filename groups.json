@@ -1,7 +1,7 @@
 {
   "format": "github-repository-groups",
   "version": 2,
-  "exportedAt": "2026-11-27T11:14:07.483Z",
+  "exportedAt": "2026-11-27T11:14:27.486Z",
   "owners": {
     "goxf": {
       "groups": [
@@ -21,7 +21,10 @@
       "assign": {
         "1431853563": "181skujlpibm",
         "1445081046": "6wq8631j6oo5",
-        "1446938695": "6wq8631j6oo5"
+        "1446938695": "6wq8631j6oo5",
+        "1452348031": "7r6p9r1semc1",
+        "1465029186": "7r6p9r1semc1",
+        "1466414596": "7r6p9r1semc1"
       }
     }
   }
