@@ -1,0 +1,12 @@
+{
+  "format": "github-plus-groups-token",
+  "version": 1,
+  "note": "Encrypted GitHub token for GitHub Plus repository groups (AES-GCM-256, key from PBKDF2-SHA256). Useless without the passphrase.",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 600000,
+  "cipher": "AES-GCM-256",
+  "salt": "cFK7yjSqicVE+I9eSa3CLQ==",
+  "iv": "YQDoOByTuSqzL5qj",
+  "ciphertext": "PwtLcEUKWHfLV1uSWmgLo+0v+bG3VPllxI2/B6dy/tFLcS3z2Qze/dp0W+PboRKEeEpwD8szPZA9PEd6G39+GbFBhFIQAoOyGyfpImayiOq5IS5dysHdfyrzIxKWwWbbjQjahVchgEBqAEt3kg==",
+  "savedAt": "2026-11-28T10:32:41.332Z"
+}
